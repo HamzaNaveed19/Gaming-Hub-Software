@@ -1,0 +1,72 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  login.cpp
+D:\Visual Studio 2022\Project2\Header.h(36,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Visual Studio 2022\Project2\Header.h(42,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Visual Studio 2022\Project2\Header.h(50,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Visual Studio 2022\Project2\Header.h(57,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Visual Studio 2022\Project2\Header.h(64,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Visual Studio 2022\Project2\login.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio 2022\Project2\login.cpp(239,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(247,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(256,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(256,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(307,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio 2022\Project2\login.cpp(456,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(456,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(464,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(464,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(543,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(778,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2022\Project2\login.cpp(781,24): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Visual Studio 2022\Project2\login.cpp(1697,35): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+D:\Visual Studio 2022\Project2\login.cpp(1697,22): warning C4309: 'argument': truncation of constant value
+D:\Visual Studio 2022\Project2\login.cpp(1821,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2022\Project2\login.cpp(1706,3): warning C4102: 'start': unreferenced label
+D:\Visual Studio 2022\Project2\login.cpp(1795,3): warning C4102: 'error': unreferenced label
+D:\Visual Studio 2022\Project2\login.cpp(932): warning C4715: 'game1': not all control paths return a value
+D:\Visual Studio 2022\Project2\login.cpp(625): warning C4715: 'game3': not all control paths return a value
+  Project2.vcxproj -> D:\Visual Studio 2022\Project2\x64\Debug\SFML.exe
