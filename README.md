@@ -1,4 +1,4 @@
-This is a gaming hub management system developed using C++ and SFML. The system provides a comprehensive platform for managing a gaming hub, including functionalities for player and admin logins, financial tracking, session management, and game selection.
+This is a gaming hub management system developed using C++ and SFML. The system provides a comprehensive platform for managing a gaming hub, including functionalities for player and admin logins, financial tracking, session management, and games selection.
 
 🌟 Features
 Player Login: Players can log in to the system using their credentials and access the gaming hub features.
