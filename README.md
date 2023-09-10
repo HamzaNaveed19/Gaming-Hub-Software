@@ -7,7 +7,7 @@ Financial Tracking: The admin dashboard provides an overview of the gaming hub's
 Session Management: Players can specify the desired number of hours they wish to play. Upon selection, a timer starts according to the chosen duration, accurately tracking the player's gaming time for billing purposes.
 Game Selection: Players can choose from a variety of games offered within the gaming hub. Currently, the available games include Pong and Minesweeper. Players have the freedom to select their preferred game and enjoy a seamless gaming experience.
 🚀 Getting Started
-To get started with this gaming hub management system, follow these steps:
+To get started with this  gaming hub management system, follow these steps:
 
 ⬇️ Download or clone the repository to your local machine.
 ⚙️ Install the SFML library and ensure it is properly set up in your C++ development environment.
